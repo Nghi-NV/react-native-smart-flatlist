@@ -13,10 +13,9 @@
   "author": "NghiNV",
   "license": "",
   "peerDependencies": {
-    "react-native": "^0.41.2",
-    "react-native-interactable": "https://github.com/Nghi-NV/react-native-interactable.git"
+    "react-native": "^0.41.2"
   },
   "dependencies": {
-    "react-native-interactable": "^0.1.10"
+    "react-native-interactable": "https://github.com/Nghi-NV/react-native-interactable.git"
   }
 }
