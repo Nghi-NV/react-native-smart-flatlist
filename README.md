@@ -7,8 +7,6 @@
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-smart-flatlist`
-
 `$ react-native link react-native-interactable`
 
 ### Use
