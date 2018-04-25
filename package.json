@@ -1,7 +1,7 @@
 {
-  "name": "react-native-react-native-smart-flatlist",
+  "name": "react-native-smart-flatlist",
   "version": "1.0.0",
-  "description": "",
+  "description": "Smart flatlist, Smart swipe row",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,12 +9,11 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
+  "author": "NghiNV",
   "license": "",
   "peerDependencies": {
     "react-native": "^0.41.2",
-    "react-native-interactable": "https://github.com/Nghi-NV/react-native-interactable.git",
-    "react-native-windows": "0.41.0-rc.1"
+    "react-native-interactable": "https://github.com/Nghi-NV/react-native-interactable.git"
   },
   "dependencies": {
     "react-native-interactable": "^0.1.10"
